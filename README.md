@@ -2,7 +2,7 @@
 
 ## Run app
 ```sh
-trunk serve --ope
+trunk serve --open
 ```
 
 ## link
